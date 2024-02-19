@@ -1,4 +1,4 @@
-//More about Threads
+//More about Thread handling
 import java.util.Random;
 
 class Randomthread extends Thread
